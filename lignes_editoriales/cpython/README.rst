@@ -1,5 +1,5 @@
-ce readme a été snapshot le 08/09/2019 à partir de `python/cpython <https://github.com/python/cpython/blob/master/README.rst>`_
-dans l'objectif de conserver la cohérence une copie du readme tel que cité dans l'article.
+ce readme a été snapshoté le 08/09/2019 à partir de `python/cpython <https://github.com/python/cpython/blob/master/README.rst>`_
+dans l'objectif de conserver une copie du readme telle que cité dans l'article.
 
 This is Python version 3.9.0 alpha 0
 ====================================
